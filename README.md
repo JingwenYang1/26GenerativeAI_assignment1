@@ -11,7 +11,7 @@ This repository contains my work for Assignment 1, exploring the use of generati
 1. `084d47c` Initial repository setup
 2. `f5cf38a` Add assistant-created draft
 3. `093ffbf` Add manually edited final version
-4. *(coming)* Final README.md update
+4. `caf95eb` Final README.md update
 
 ## Video link
 https://youtu.be/YKSv2Yqzu64
